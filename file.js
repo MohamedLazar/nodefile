@@ -1,1 +1,1 @@
-require('fs').readdirSync('.').toString()
+<script>alert('Hello, world!');</script>
