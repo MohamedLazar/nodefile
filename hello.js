@@ -1,1 +1,1 @@
-res.send('Hello World!')
+console.log(`Example');
